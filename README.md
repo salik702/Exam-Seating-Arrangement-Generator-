@@ -166,11 +166,24 @@ npm run dev
 
 <div align="center">
 
-<a href="https://salikahmad.vercel.app/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1F1F&center=true&vCenter=true&width=435&lines=Engineered+By+Salik+Ahmad;Optimizing+Academic+Logistics;Copyright+(c)+2026" alt="Typing SVG" />
-</a>
+<h3>Made with ❤️ by <b>Salik Ahmad</b></h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-red?style=for-the-badge&logo=google-chrome)](https://salikahmad.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-salikahmad702%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:salikahmad702@gmail.com)
+<p>
+  <a href="https://salikahmad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-🌐-blue?style=for-the-badge&logo=about.me&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/salik-ahmad-programmer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-🔗-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/salikahmad702" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-📊-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://salikahmad.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Copyright%202026%20Salik%20Ahmad.%20All%20rights%20reserved.%20AI/ML%20Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 </div>
